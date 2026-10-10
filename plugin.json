@@ -9,7 +9,7 @@
   ],
   "license": "Apache-2.0",
   "repository": "https://github.com/RunesmithHub/plugin-csharp-templates",
-  "homepage": "https://runesmithhub.github.io/Runesmith/plugins/csharp#templates",
+  "homepage": "https://docs.runesmith.dev/plugins/csharp#templates",
   "runesmithApi": "^0.1.0",
   "projects": {
     "contracts": "src/Runesmith.CSharp.Templates.Contracts/Runesmith.CSharp.Templates.Contracts.csproj",

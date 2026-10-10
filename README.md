@@ -9,7 +9,7 @@ project templates of every .NET SDK Runesmith finds, and of every template packa
 - **Create** runs `dotnet new` with the .NET SDK you picked, in a folder of its own next to a `.slnx` solution that lists the project.
 
 It reads the template packages without unpacking them. The
-[templates documentation](https://runesmithhub.github.io/Runesmith/plugins/csharp#templates) describes where it looks and which templates
+[templates documentation](https://docs.runesmith.dev/plugins/csharp#templates) describes where it looks and which templates
 it lists.
 
 ## Capabilities
@@ -40,7 +40,7 @@ load it.
 
 ## Documentation
 
-Runesmith's documentation, including how plugins work and how to write one, is at https://runesmithhub.github.io/Runesmith/.
+Runesmith's documentation, including how plugins work and how to write one, is at https://docs.runesmith.dev.
 
 ## License
 

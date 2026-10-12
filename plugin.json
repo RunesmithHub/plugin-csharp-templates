@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "runesmith.csharp-templates",
   "name": "C# templates",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "New C#, F# and Visual Basic projects from the .NET SDK's templates and the template packages you installed.",
   "authors": [
     "Dylan de Beer"
@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/RunesmithHub/plugin-csharp-templates",
   "homepage": "https://docs.runesmith.dev/plugins/csharp#templates",
-  "runesmithApi": "^0.1.0",
+  "runesmithApi": "^0.2.0",
   "projects": {
     "contracts": "src/Runesmith.CSharp.Templates.Contracts/Runesmith.CSharp.Templates.Contracts.csproj",
     "implementation": "src/Runesmith.CSharp.Templates/Runesmith.CSharp.Templates.csproj"
